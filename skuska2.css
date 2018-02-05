@@ -346,13 +346,13 @@
 
 /*--[dj-button]--*/
 /*#dj-button {
-   background-color: rgba(0, 0, 0, 9) !important;
+   background-color: rgba(165, 69, 69, 1) !important;
 }
 #dj-button:hover {
-   background-color: rgba(0, 0, 0, 0.35) !important;
+   background-color: rgba(165, 69, 69, 1) !important;
 }
 #dj-button .left{
- background: rgba(0, 0, 0, 0) !important;
+ background: rgba(165, 69, 69, 1) !important;
 }
 #dj-button {
     left: 25px !important;
