@@ -240,7 +240,11 @@ box-shadow: 0 0 10px rgba(158, 11, 11, 1) !important; }
 #dj-button.is-leave {  box-shadow: 0 0 10px rgba(158, 30, 11, 1) !important; }
 #dj-button.is-quit {  box-shadow: 0 0 10px rgba(158, 30, 11, 1) !important;  }
 #dj-button.is-locked .left, #dj-button.is-full .left {  box-shadow: #000 !important;  }
-
+}
+#rs-eta {
+	font-size: small;
+	color: #000000 !important;
+}
 /* Avatares */
 #user-inventory .avatars .grid .cell { border-radius: 3000px; 
 background: linear-gradient(to bottom,#12A9E0 0,#0D607E 56%,#000 73%,#39393A 100%)  !important; }
