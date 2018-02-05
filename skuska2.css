@@ -508,23 +508,23 @@ top: 0 !important;
  background: rgba(0, 0, 0, 0) !important;
 }
 #woot:not(.selected){
-  border: 2px solid #25b961;
+  border: 2px solid #ffffff;
 }
 #grab:not(.selected){
-  border: 2px solid #aa74ff;
+  border: 2px solid #1754a5;
 }
 #meh:not(.selected){
-  border: 2px solid #c42e3b;
+  border: 2px solid #ed000b;
 }
 
 #woot.selected {
-    background: #25b961 !important;
+    background: #ffffff !important;
 }
 #grab.selected{
-    background: #aa74ff !important;
+    background: #1754a5 !important;
 }
 #meh.selected{
-    background: #c42e3b !important;
+    background: #ed000b !important;
 }
 #vote .crowd-response.disabled .bottom {
     background: rgba(0, 0, 0, 0.28);
