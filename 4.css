@@ -4,16 +4,19 @@
     border-bottom: 1px solid #04203c;
 }
 #user-lists .list.staff .group.host .icon-chat-host {
-	background: url(https://cdn.sor.lv/img/misc/ghost.png) no-repeat;
+	background: url(https://i.imgur.com/3TyLfh0.png) no-repeat;
+}
+#user-lists .list.staff .group.cohost .icon-chat-host {
+	background: url(https://i.imgur.com/6x7jEuw.png) no-repeat;
 }
 #user-lists .list.staff .group.manager .icon-chat-manager {
-	background: url(https://cdn.sor.lv/img/misc/gmanager.png) no-repeat;
+	background: url(https://i.imgur.com/iYcWKxe.png) no-repeat;
 }
 #user-lists .list.staff .group.bouncer .icon-chat-bouncer {
-	background: url(https://cdn.sor.lv/img/staff/bouncer.png) no-repeat;
+	background: url(https://i.imgur.com/nC6jqPF.png) no-repeat;
 }
 #user-lists .list.staff .group.dj .icon-chat-dj {
-	background: url(https://cdn.sor.lv/img/staff/residentdj.png) no-repeat;
+	background: url(https://i.imgur.com/rc1mU8E.png) no-repeat;
 }
 
 #playlist-button {
