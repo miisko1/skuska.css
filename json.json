@@ -15,18 +15,18 @@
         "forceSmartVote": false
     },
     "ccc": {
-       "admin": null,
-        "ambassador": null,
-        "host": "#5bf",
-        "cohost": "#58f",
-        "manager": "#e15",
-        "bouncer": "#f45",
-        "rdj": "#f95",
-        "subscriber": "#e6cc26",
-        "silversubscriber": "#dc24d9",
-        "friend": null,
-        "user": "#00bf4f"
-    },
+        "admin":                "#42A5DC",
+        "ambassador":           "#367617",
+        "host":                 "#c51200",
+        "cohost":               "#D77D74",
+        "manager":              null,
+        "bouncer":              "#3C4EE8",
+        "rdj":                  "#F3508F",
+        "subscriber":           "#3c6471",
+        "silversubscriber":     "#637175",
+        "friend":               null,
+        "user":                 "#f9f9f9"
+     },
     "images": {
         "background": "https://i.imgur.com/vLbGLYO.jpg",
         "playback": "https://i.imgur.com/LO6AmiK.png",
